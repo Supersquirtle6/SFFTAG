@@ -7,7 +7,7 @@ This game is a C++ Project made to be a terminal run Text Based RPG.
 
 Programming:
 - Super
-- Clover
+- UndefinedR4m
 
 Art Assets:
 - CamTheFox23
